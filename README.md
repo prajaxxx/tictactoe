@@ -1,2 +1,2 @@
 # tictactoe
-A Tic Tac Toe game written in python as a part of final project in Python Essentials 1 course offered by Cisco Networking Academy.
+A console-based Tic Tac Toe game written in Python, developed as part of the final project for the Python Essentials 1 course. In this game, the player uses 'O' and the computer uses 'X'. The game incorporates various Python concepts such as lists for the board representation, dictionaries to map positions, loops for gameplay control, random number generation for computer moves, and conditionals to check for wins and draw conditions. The project demonstrates basic Python skills including user input handling and function design.
